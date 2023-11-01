@@ -22,7 +22,7 @@ SpeedBot est un bot Discord conçu pour les amateurs de moto qui souhaitent se c
 
 Utilisez la commande `!enregistrement` pour remplir votre profil :
    
-```!enregistrement Nom Ville Region```
+`!enregistrement Nom Ville Region`
    
 Par exemple : `!enregistrement JohnDoe LosAngeles Californie`
 
