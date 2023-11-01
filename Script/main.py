@@ -28,4 +28,4 @@ async def on_message(message : discord.Message):
         await message.channel.send(reponse)
 
 if __name__ == '__main__':
-    bot.run("MTE2OTM3NTA1NjE0MTUwNDY1Mw.Gnl9yt.6OFwtPUhNwDB-tabRe6kKl1HKobJWKHdxjTj7Y")
+    bot.run(TOKEN)
