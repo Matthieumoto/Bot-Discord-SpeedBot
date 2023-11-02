@@ -15,4 +15,3 @@ def actualiser(region, ville, nom, pseudo):
     # Enregistrer les modifications dans le fichier JSON
     with open("donnees.json", "w") as file:
         json.dump(donnees, file, indent=2)
-    
